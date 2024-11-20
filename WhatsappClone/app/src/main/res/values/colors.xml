@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="ColorPrimary">#0b6156</color>
+    <color name="ColorPrimaryDark">#094049</color>
+    <color name="LightGrey">#EDEDED</color>
+    <color name="colorAgent">#03DAC5</color>
+    <color name="RED">#9F0b0b</color>
+    <color name="status_bg">#009688</color>
+    <color name="chat_bg">#8BC34A</color>
+    <color name="fb_color">#3c5793</color>
+    <color name="LightGreen">#e5ffcc</color>
+    <color name="settingIcon">#0E8374</color>
+    <color name="grey_bg">#BCBCBC</color>
+    <color name="CHAT_BG">#AAAAAA</color>
+</resources>
